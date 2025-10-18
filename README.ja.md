@@ -1,8 +1,8 @@
 # Twilio Monitor MCP Server
 
-Twilio Monitor APIをラップしたMCP（Model Context Protocol）サーバーです。Claude CodeなどのMCPクライアントから、Twilioのアラートやイベントを直接取得できます。
+[English](https://github.com/geekfeedjapan/mcp-twilio-monitor/blob/main/README.md) | [日本語](https://github.com/geekfeedjapan/mcp-twilio-monitor/blob/main/README.ja.md)
 
-> 📘 English README is also included in the package: `README.md`
+Twilio Monitor APIをラップしたMCP（Model Context Protocol）サーバーです。Claude CodeなどのMCPクライアントから、Twilioのアラートやイベントを直接取得できます。
 
 ## クイックスタート
 
