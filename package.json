@@ -1,6 +1,6 @@
 {
   "name": "@geekfeed/mcp-twilio-monitor",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "MCP Server for Twilio Monitor API - Access Twilio alerts and events from Claude Code",
   "type": "module",
   "main": "dist/index.js",
