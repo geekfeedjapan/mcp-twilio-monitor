@@ -141,6 +141,12 @@ Claude Codeで設定後、自然言語でTwilioモニターデータとやり取
 - Node.js 14以上
 - Monitor APIアクセスが有効なTwilioアカウント
 
+## 作者
+
+**Shinji Uchi / GeekFeed Co.,Ltd.**
+
+- ウェブサイト: https://www.geekfeed.co.jp
+
 ## ライセンス
 
 MIT

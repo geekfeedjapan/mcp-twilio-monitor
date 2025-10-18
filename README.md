@@ -141,6 +141,12 @@ Show details for alert NO12345678901234567890123456789012
 - Node.js 14 or higher
 - Twilio account with Monitor API access
 
+## Author
+
+**Shinji Uchi / GeekFeed Co.,Ltd.**
+
+- Website: https://www.geekfeed.co.jp
+
 ## License
 
 MIT
